@@ -105,11 +105,11 @@ WSGI_APPLICATION = 'crmapp.wsgi.application'
 
 DATABASES = {
     'default': {
-           'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'crmeasyDB',
-        'USER': 'postgres',
-        'PASSWORD': CRMEASY_DB_PASS,
-        'HOST': 'localhost',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'dckf1se8k8j5r3',
+        'USER': 'cckhjwyhgfscfk',
+        'PASSWORD': '2sw-_UMhgpK8gnKcqUgEG-66lm',
+        'HOST': 'ec2-54-243-245-58.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
